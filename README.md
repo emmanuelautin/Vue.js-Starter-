@@ -1,4 +1,4 @@
-# Rite de passage du padawan Front - Projet Eautin
+# Projet Front End Vue.js
 
 ## Pour installer
 
