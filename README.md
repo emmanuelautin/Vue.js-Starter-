@@ -2,7 +2,7 @@
 
 ## Pour installer
 
-Lancez npm install pour installer les dépendances. J'ai ajouté vue-router, axios ( API fetch fonctionne aussi mais pour un code plus concis) et la librairie de test Jest.
+Lancez `npm run dev` 
 
 ## Lancez l'appli
 
