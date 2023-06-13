@@ -2,7 +2,7 @@
 
 ## Pour installer
 
-Lancez `npm run dev` 
+Lancez `npm install` 
 
 ## Lancez l'appli
 
